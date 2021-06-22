@@ -1,2 +1,1 @@
-# Large-scale-data-visualization-platform
-This is a large-scale data visualization platform which can help users understand and analysis the Database\ES\Cache or anyother data source.
+Here are some idea about this platform. (1)Hadoop:We can create a API which implement the Map-Reduce logic.We can use this API to do some large Scale calculation like word count and so on.
